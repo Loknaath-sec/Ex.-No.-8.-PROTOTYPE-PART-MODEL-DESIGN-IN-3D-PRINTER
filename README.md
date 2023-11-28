@@ -2,7 +2,7 @@
 
 ### DATE: 28/11/2023
 ## AIM: 
-### To prototype the given part model design in 3D Printer.
+To prototype the given part model design in 3D Printer.
 
 ## REQUIREMENTS:
 ### ●	3D Printer machine.

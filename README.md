@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![7](https://github.com/Loknaath-sec/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145742558/1802934c-3ab5-4ad3-96b4-65601d4b4bc4)
 
 ### Name: P.LOKNAATH
 ### Register Number: 23004546
